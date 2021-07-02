@@ -12,5 +12,6 @@ Once someone has received tokens, allow them to also send their tokens to someon
 Read the token balance from the contract deployed to the blockchain
 
 The Smart Contract  and the token are deployed which can be viewed on Etherscan Ropsten Testnet Explorer.
+
 Greeter deployed to: 0x754AD6cc8FC6ac3823A41b5626e28E162EEb5387
 Token deployed to: 0xeBbB2Ef2F0ebdA2929aD36a09f832F6c9bf64349
